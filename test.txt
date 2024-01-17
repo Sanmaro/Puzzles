@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+line1
+line2
+line3
+=======
+<<<<<<< HEAD
+line1
+line2
+line3
+=======
+line1
+line2
+line3
+>>>>>>> 1c4bb1d554e1787639bd741b2ae2402151fd51a2
+>>>>>>> e83ae84f94fa497255de1a9688042684b15ce4b3
+line4
